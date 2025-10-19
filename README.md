@@ -86,20 +86,11 @@ AAqui estão os ativos "Fake Natty" criados para a campanha **Lumina Cosmetics**
 
 ### 🎬 Vídeo de Lançamento (Avatar Virtual)
 * **Descrição:** Comercial de 45 segundos com avatar de IA anunciando o batom.
-* **Acesso:** Observe as imagens abaixo.
-
-<div align="right">
-  <details>
-    <summary font-weight: bold;">
-      [Video de lançamento]
-    </summary>
-    <img src="exemplos/Video.mp4" alt="Video de lançamento" width="600">
-  </details>
-</div>
+* **Acesso:** [Vide de Lançamento](https://youtu.be/apNy-qukTiA)
 
 ### 🎙️ Podcast "Dicas de Beleza da Lumina"
 * **Descrição:** Episódio com vinheta, monólogo de dicas de beleza e inserção do comercial do AquaGlow.
-* **Acesso:** [Link do Áudio MP3 no seu repositório ou SoundCloud]
+* **Acesso:** [Podcast](https://youtu.be/G3aAuwQwQyU)
 
 ### 📘 eBook "Guia Definitivo da Lumina"
 * **Descrição:** Guia completo de 7 passos focado em rotina diária e dicas de manuseio para pele e maquiagem.
