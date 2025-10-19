@@ -94,7 +94,7 @@ AAqui estão os ativos "Fake Natty" criados para a campanha **Lumina Cosmetics**
 
 ### 📘 eBook "Guia Definitivo da Lumina"
 * **Descrição:** Guia completo de 7 passos focado em rotina diária e dicas de manuseio para pele e maquiagem.
-* **Acesso:** [**SEU LINK DO PDF RAW AQUI**] *(Ex: https://raw.githubusercontent.com/seuusuario/repositorio/main/Ebook/Guia_Definitivo_Lumina.pdf)*
+* **Acesso:** [E-BOOk](https://1drv.ms/b/c/ce8b5ebf4cd45c34/EQCVYo_INdNJhVZhvr4qUhUB0Io94Kn_4Ql5nDtYLfLAPg?e=up8jW4)
 
 ## 💭 Reflexão (Opcional)
 O desafio de criar conteúdo "natty" com IA reside na **coerência**. A maior dificuldade foi garantir que a voz, a estética visual e o texto mantivessem o **tom de luxo e sofisticação** da marca em todos os diferentes formatos de mídia (imagem, áudio, vídeo, texto), mostrando que a IA pode ser usada para construir uma marca totalmente falsa, mas totalmente crível.
