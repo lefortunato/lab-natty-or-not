@@ -55,7 +55,34 @@ AAqui estão os ativos "Fake Natty" criados para a campanha **Lumina Cosmetics**
 
 ### 🖼️ Imagem Oficial da Campanha (Modelo e Produto)
 * **Descrição:** Imagem fotorrealista de alta qualidade focada no brilho labial e hidratação.
-* **Acesso:** [Link da Imagem PNG/JPG no seu repositório]
+* **Acesso:** Observe as imagens abaixo.
+
+<div align="right">
+  <details>
+    <summary font-weight: bold;">
+      [Modelo 01]
+    </summary>
+    <img src="imagens/Imagem_fotorrealista_0 (1).jpg" alt="Modelo 01" width="600">
+  </details>
+  <details>
+    <summary font-weight: bold;">
+      [Modelo 02]
+    </summary>
+    <img src="imagens/Imagem_fotorrealista_0 (2).jpg" alt="Modelo 02" width="600">
+  </details>
+  <details>
+    <summary font-weight: bold;">
+      [Modelo 03]
+    </summary>
+    <img src="imagens/Imagem_fotorrealista_0 (3).jpg" alt="Modelo 03" width="600">
+  </details>
+  <details>
+    <summary font-weight: bold;">
+      [Modelo 04]
+    </summary>
+    <img src="imagens/Imagem_fotorrealista_0 (4).jpg" alt="Modelo 04" width="600">
+  </details>
+</div>
 
 ### 🎬 Vídeo de Lançamento (Avatar Virtual)
 * **Descrição:** Comercial de 45 segundos com avatar de IA anunciando o batom.
