@@ -4,9 +4,9 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Bora Pro Desafio!?
 
 ### Objetivos
 
@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 
-# Título do Projeto Extremamente Aesthetic ;)
+# [Fake Natty] Lumina Cosmetics: Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
 
@@ -99,14 +99,11 @@ AAqui estão os ativos "Fake Natty" criados para a campanha **Lumina Cosmetics**
 ## 💭 Reflexão (Opcional)
 O desafio de criar conteúdo "natty" com IA reside na **coerência**. A maior dificuldade foi garantir que a voz, a estética visual e o texto mantivessem o **tom de luxo e sofisticação** da marca em todos os diferentes formatos de mídia (imagem, áudio, vídeo, texto), mostrando que a IA pode ser usada para construir uma marca totalmente falsa, mas totalmente crível.
 
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
 ## Links Interessantes
+[Leonardo.IA](https://app.leonardo.ai/image-generation) </br>
+[Hey Gen](https://app.heygen.com) </br>
+[Cap Cut](CapCut.com) </br>
+[Suno](https://suno.com/home) </br>
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
